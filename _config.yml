@@ -14,4 +14,3 @@ style: hacker # light dark (default) or light
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-redirect-from
