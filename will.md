@@ -1,7 +1,7 @@
 ---
 title: will's page
 layout: home
-permalink: /
+permalink: /will
 redirect_to: https://will.medde.rs/
 ---
 
